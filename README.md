@@ -1,2 +1,2 @@
 # Repositoriodeprueba
-Este es un repositorio de prueba
+Este es un repositorio de prueba en GitHub de práctica
